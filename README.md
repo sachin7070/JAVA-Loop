@@ -43,13 +43,13 @@ do {
 ```
 
 ### Types of Loops
-1. for Loop
+### 1. for Loop
 The for loop is used when you know the number of iterations in advance.
 
-2. while Loop
+### 2. while Loop
 The while loop is used when you want to execute a block of code repeatedly until a specified condition is false.
 
-3. do-while Loop
+### 3. do-while Loop
 The do-while loop is similar to the while loop, but it ensures that the code block is executed at least once before checking the condition.
 
 Examples
