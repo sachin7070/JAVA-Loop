@@ -46,19 +46,16 @@ do {
 ### 1. for Loop
 The for loop is used when you know the number of iterations in advance.
 
-### 2. while Loop
-The while loop is used when you want to execute a block of code repeatedly until a specified condition is false.
-
-### 3. do-while Loop
-The do-while loop is similar to the while loop, but it ensures that the code block is executed at least once before checking the condition.
-
-Examples
-Example 1: for Loop
+Example : for Loop
 ```java
 for (int i = 0; i < 5; i++) {
     System.out.println("Iteration: " + i);
 }
 ```
+
+### 2. while Loop
+The while loop is used when you want to execute a block of code repeatedly until a specified condition is false.
+
 Example 2: while Loop
 ```java
 int i = 0;
@@ -67,6 +64,10 @@ while (i < 5) {
     i++;
 }
 ```
+
+### 3. do-while Loop
+The do-while loop is similar to the while loop, but it ensures that the code block is executed at least once before checking the condition.
+
 Example 3: do-while Loop
 ```java
 int i = 0;
@@ -75,6 +76,9 @@ do {
     i++;
 } while (i < 5);
 ```
+
+
+
 ## Contribution
 
 Contributions to this project are welcome. If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
